@@ -3,7 +3,10 @@ import { SkillsInfo } from './../../constants';
 import ReactParallaxTilt from 'react-parallax-tilt';
 const Skills = () => {
     return (
-        <section id="skills" className="py-24 px-[12vw] md:px-[7vw] lg:px-[20vw] font-sans bg-skills clip-path-custom">
+        <section id="skills" className="py-24 px-[12vw] md:px-[7vw] lg:px-[20vw] font-sans bg-skills" style={{
+                backgroundImage: `linear-gradient(38.73deg, rgba(204, 0, 187, 0.15) 0%, rgba(201, 32, 184, 0) 50%), linear-gradient(141.27deg, rgba(0, 70, 209, 0) 50%, rgba(0, 70, 209, 0.15) 100%)`,
+                clipPath: 'polygon(0 0, 100% 0, 100% 85%, 0% 100%)'
+            }}>
             {/* Section Title  */}
             <div className="text-center mb-8">
                 <h2 className="text-3xl sm:text-4xl font-bold text-white">Skills</h2>
