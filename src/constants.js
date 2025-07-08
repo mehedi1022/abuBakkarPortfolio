@@ -114,7 +114,7 @@ export const education = [
     school: "Jahangirnagar University, Dhaka",
     date: "Jan 2025 - Jan 2026",
     grade: "Running",
-    desc: "I am currenting",
+    desc: "I am currently pursuing my Master’s degree in Computer Science at Jahangirnagar University. My academic journey here is helping me deepen my understanding of advanced computing concepts, algorithms, and modern technologies like artificial intelligence and data science. I am passionate about research, problem-solving, and applying theoretical knowledge to real-world challenges.",
     degree: "Master of Science - MS, Computer Science",
   },
   {
@@ -123,17 +123,17 @@ export const education = [
     school: "University of Asia Pacific, Dhaka",
     date: "Sept 2018 - Aug 2021",
     grade: "Hidden",
-    desc: "I completed my Bachelor's degree in Computer Science (B.Sc.) from BSA College, Mathura. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BSA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
+    desc: "I completed my BSc in Computer Science and Engineering from the University of Asia Pacific, where I gained a strong foundation in programming, algorithms, software development, and modern computing technologies.",
     degree: "Bachelor of Science in Computer Science",
   },
   {
     id: 2,
     img: ansar,
-    school: "Al Ansar Secondary School",
+    school: "Al Ansar Secondary School, Madinah, KSA",
     date: "Apr 2017 - March 2018",
     grade: "80%",
-    desc: "I completed my class 12 education from Vatsalya Public School, Govardhan, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
-    degree: "High School",
+    desc: "I have successfully completed my Associate College Degree from Al Ansar Secondary School in Madinah, KSA. This academic journey provided me with a strong foundation in core subjects, discipline, and a global perspective through a diverse and enriching learning environment.",
+    degree: "Associate Collage Degree",
   },
   
 ];
