@@ -1,6 +1,6 @@
 # 🌐 Animated Portfolio Website
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. 
+A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**.
 
 ## 🚀 Live Demo
 
@@ -48,3 +48,8 @@ npm start
 npm run build
 ```
 
+## 🌟 Credits
+
+Project Created By Muhammad Mehedi Hasan for Abu Bakkar
+
+UI is inspired from Tarun Kaushik
