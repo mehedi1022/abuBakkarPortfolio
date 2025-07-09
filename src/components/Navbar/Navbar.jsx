@@ -5,7 +5,7 @@ import { FaGithub, FaLinkedin } from 'react-icons/fa';
 
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
-    const [activeSection, setActiveSections] = useState("");
+    const [activeSection, setActiveSection] = useState("");
     const [isScrolled, setIsScrolled] = useState(false);
     // Check scroll and change Navbar background
     useEffect(() => {
@@ -20,14 +20,20 @@ const Navbar = () => {
 
     // Smoot scroll function 
     const handleMenuItemClick = (sectionId) => {
-        setActiveSections(sectionId);
+        setActiveSection(sectionId); 
         setIsOpen(false);
-    }
+
+        const section = document.getElementById(sectionId);
+        if (section) {
+            section.scrollIntoView({ behavior: "smooth" });
+        }
+    };
+
     const menuItems = [
         { id: "about", label: "About" },
         { id: "skills", label: "Skills" },
         { id: "experience", label: "Experience" },
-        { id: "work", label: "Work" },
+        { id: "projects", label: "Projects" },
         { id: "education", label: "Education" },
     ]
 
