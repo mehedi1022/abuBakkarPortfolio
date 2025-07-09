@@ -145,7 +145,7 @@ export const projects = [
     description:
       "Implemented CI/CD pipeline to streamline deployments, reducing manual errors and ensuring consistent, rapid releases.",
     image: pipeline,
-    tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
+    tags: ["AWS", "Terraform", "GitHub Actions", "Python", "Django", "AWS Elastic Beanstalk", "Docker", "AWS CloudWatch", "GitHub Secrets"],
     github: "https://github.com/mehedi1022/a-04",
     webapp: "https://githu.netlify.app/",
   },
@@ -155,7 +155,7 @@ export const projects = [
     description:
       "Led a team of four in developing a web-based car dealership platform using Python, Django, and Selenium. Technologies: Utilized Python, Django, and Selenium for efficient development and testing. Functionality: Facilitated car searches within the USA and UK, optimizing the customer experience.Contributions: Played a key role in database management and software automation, ensuring application efficiency.",
     image: car,
-    tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+    tags: ["HTML", "CSS", "JavaScript", "Python", "Django", "Selenium", "PostgreSQL", "MySQL"],
     github: "https://github.com/mehedi1022/a-04",
     webapp: "https://cs6546545.netlify.app/",
   },
