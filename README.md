@@ -50,6 +50,6 @@ npm run build
 
 ## 🌟 Credits
 
-Project Created By Muhammad Mehedi Hasan for Abu Bakkar
+Project Created By [Muhammad Mehedi Hasan](https://github.com/mehedi1022) for [Abu Bakkar](https://github.com/bakr-619)
 
 UI is inspired from Tarun Kaushik
